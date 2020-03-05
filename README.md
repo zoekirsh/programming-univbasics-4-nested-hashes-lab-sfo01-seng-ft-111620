@@ -15,15 +15,15 @@ updating data within a nested hash and review what we've covered so far.
 
 In this lab, you'll be filling out the content of a series of methods that we've
 defined for you. All of the methods expect you to operate on the
-`programmer_hash` object, which we've already defined and included in the body
-of each method.
+`programmer_hash` object, which is already defined and included in the body of
+each method.
 
 Use the comments in `nested.rb` and test suite to guide you. Each test is
 designed to tell you how to pass it.
 
 Keep in mind that you are expected to get these tests to pass by adding or
 changing information in the hash *programmatically*. In other words, if you're
-asked to, for example, change the value of a certain hash key, *don't just
+asked to, for example, change the value of a specific hash key, *don't just
 re-write the hash with the new value!* Use the methods we've learned and
 practiced in previous lessons.
 
@@ -92,8 +92,8 @@ return the updated `programmer_hash`.
 
 ## Conclusion
 
-Adding and updating data in a nested hash is just like adding and updating a
-normal hash. If we know the structure, it is just a matter of using the right
+Adding and updating data in a nested hash is just like adding and updating an
+ordinary hash. If we know the structure, it is just a matter of using the right
 combination of keys.
 
 As we see examples of more complex data structures, we'll start to encounter
